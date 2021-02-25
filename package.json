@@ -1,0 +1,25 @@
+{
+  "name": "ideia-unica-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cangemi/ideia-unica-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cangemi/ideia-unica-api/issues"
+  },
+  "homepage": "https://github.com/Cangemi/ideia-unica-api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.4",
+    "mongoose": "^5.11.17"
+  }
+}
